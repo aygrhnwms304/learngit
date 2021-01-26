@@ -1,1 +1,1 @@
-It is a monkey.
+It is a dog.
